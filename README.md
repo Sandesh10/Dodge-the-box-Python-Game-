@@ -1,0 +1,2 @@
+# Dodge the box (Python Game)
+"Dodge the box" is the 2D game developed using python/pygame. This game is my first attempt to learn game development in python. In this game, the user controls a car by moving it across the sides(right and left) to dodge the decending boxes. The boxes start from the top and advance towards rhe bottom of the screen. The user ears point if it dodges the box. The score is maintained in the top left corner. As the game proceeds, the speed of the boxes descending is gradually increased.The game ends if the player car crashes with the box.
